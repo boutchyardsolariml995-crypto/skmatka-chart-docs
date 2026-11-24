@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boutchyardsolariml995-crypto.github.io/skmatka-chart-docs/sitemap.xml
